@@ -16,3 +16,10 @@ I'm a big fan of social tokens and strongly believe in the future of tokenized e
 ## Screenshots
 ![](./S3.png)
 ![](./S2.png)
+
+## Repositories
+[Token sale](https://github.com/lightsea90/token-sale)
+
+[Token factory](https://github.com/lightsea90/token-factory)
+
+[Token deployer](https://github.com/lightsea90/token-deployer)
